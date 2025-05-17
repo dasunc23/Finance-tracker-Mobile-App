@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finance Tracker</string>
+    
+    <!-- Splash Screen -->
+    <string name="get_started">Get Started</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Track Your Expenses</string>
+    <string name="onboarding_desc_1">Keep track of your daily expenses and income to better manage your finances.</string>
+    <string name="onboarding_title_2">Set Budgets</string>
+    <string name="onboarding_desc_2">Create monthly budgets for different categories and get notified when you\'re close to your limit.</string>
+    <string name="onboarding_title_3">Analyze Spending</string>
+    <string name="onboarding_desc_3">Visualize your spending patterns and make smarter financial decisions.</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    
+    <!-- Authentication -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="email_hint">example@email.com</string>
+    <string name="password_hint">minimum 6 characters</string>
+    <string name="auth_error">Authentication failed. Please try again.</string>
+    <string name="fields_empty">Please fill in all fields</string>
+    <string name="passwords_not_match">Passwords do not match</string>
+    <string name="reset_link_sent">Password reset link sent to your email</string>
+    
+    <!-- Main Navigation -->
+    <string name="transactions">Transactions</string>
+    <string name="budgets">Budgets</string>
+    <string name="analytics">Analytics</string>
+    <string name="profile">Profile</string>
+    
+    <!-- Transactions -->
+    <string name="add_transaction">Add Transaction</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="transaction_title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="note">Note</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_transactions">No transactions yet</string>
+    
+    <!-- Categories -->
+    <string name="category_food">Food &amp; Dining</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_transport">Transportation</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_health">Health</string>
+    <string name="category_utilities">Utilities</string>
+    <string name="category_housing">Housing</string>
+    <string name="category_salary">Salary</string>
+    <string name="category_other">Other</string>
+    
+    <!-- Budgets -->
+    <string name="set_budget">Set Budget</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="budget_limit">Budget Limit</string>
+    <string name="budget_remaining">Remaining</string>
+    <string name="budget_used">Used</string>
+    <string name="budget_alert_threshold">Alert Threshold (%)</string>
+    
+    <!-- Analytics -->
+    <string name="spending_by_category">Spending by Category</string>
+    <string name="monthly_overview">Monthly Overview</string>
+    <string name="income_vs_expense">Income vs Expense</string>
+    <string name="this_month">This Month</string>
+    <string name="last_month">Last Month</string>
+    <string name="last_3_months">Last 3 Months</string>
+    <string name="last_6_months">Last 6 Months</string>
+    <string name="this_year">This Year</string>
+    
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="notifications">Notifications</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="profile_updated">Profile updated successfully</string>
+    
+    <!-- Navigation Drawer -->
+    <string name="nav_transaction_history">Transaction History</string>
+    <string name="nav_profile_settings">Profile Settings</string>
+    <string name="nav_logout">Logout</string>
+    
+    <!-- Notifications -->
+    <string name="notification_budget_warning">You\'ve used 80% of your budget</string>
+    <string name="notification_budget_exceeded">You\'ve exceeded your budget!</string>
+    <string name="notification_reminder">Don\'t forget to track today\'s expenses</string>
+    
+    <!-- Misc -->
+    <string name="currency_symbol">$</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="success">Success</string>
+</resources>
